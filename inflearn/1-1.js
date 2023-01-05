@@ -12,3 +12,5 @@ function solution(a,b,c){
 }
 
 console.log(solution(6,5,1));
+
+// 1번 문제//
